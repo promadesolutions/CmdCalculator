@@ -1,0 +1,14 @@
+/Users/gudimetlaramanarasimham/CmdCalculator/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/gudimetlaramanarasimham/CmdCalculator/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/gudimetlaramanarasimham/CmdCalculator/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/gudimetlaramanarasimham/CmdCalculator/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/gudimetlaramanarasimham/CmdCalculator/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/gudimetlaramanarasimham/CmdCalculator/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gudimetlaramanarasimham/CmdCalculator/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/gudimetlaramanarasimham/CmdCalculator/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/gudimetlaramanarasimham/CmdCalculator/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/gudimetlaramanarasimham/CmdCalculator/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/gudimetlaramanarasimham/CmdCalculator/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/gudimetlaramanarasimham/CmdCalculator/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/gudimetlaramanarasimham/CmdCalculator/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/gudimetlaramanarasimham/CmdCalculator/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
